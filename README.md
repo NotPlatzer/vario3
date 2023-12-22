@@ -1,4 +1,6 @@
-# README für Paraglider Tracker App
+### ⭕Hinweis⭕
+- Einige Funktionen sind noch in Bearbeitung, und funktionieren nicht!
+
 
 ## Übersicht
 Diese React Native-App unterstützt Paraglider bei der Navigation in den Bergen, indem sie Höhe und Gleitwinkel verfolgt. Sie verwendet eine API zur Höhenerfassung.
@@ -18,9 +20,5 @@ Diese React Native-App unterstützt Paraglider bei der Navigation in den Bergen,
 
 ### Code-Highlights
 - Standortverfolgung mit `expo-location`.
-- Höhenberechnung mit `expo-sensors`.
+- Höhenberechnung mit `expo-sensors` und GPS.
 - Kartenanzeige mit `react-native-maps`.
-- Verwendung von `useState` und `useEffect` für State-Management und Datenaktualisierungen.
-
-### Hinweis
-- Einige Funktionen sind noch in Bearbeitung.
